@@ -1,0 +1,104 @@
+header {
+  margin: 20px;
+}
+
+.banner {
+  border-width: 2px;
+background-color: navy;
+  display: inline;
+  list-style-type: none;
+}
+
+.title {
+  height: 5rem;
+  background-color: violet;
+  border-style: solid;
+}
+
+#lebah {
+  border: 20px;
+  width: 9%;
+  padding: 25px 15px 25px 75px;
+  float: left;
+  position: relative;
+  background-color: aquamarine;
+
+}
+
+.konten {
+  background-color: blue;
+  float: right;
+  overflow: visible;
+  position: relative;
+  border-radius: 5px;
+  display: :
+  width: 75%;
+  height: 0px;
+}
+
+.konten-heading{
+}
+
+.navbar {
+padding: 10px;
+position: absolute;
+  display: inline;
+  border: 10px solid green;
+  height: 200px;
+  width: 200px;
+}
+
+.navleft{
+
+}
+
+.navright{
+  display: inline-block;
+}
+
+nav li {
+  display: inline;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.jumbotron {
+
+  width: 20%;
+  padding: 2rem 14rem 2rem 14rem;
+}
+
+#piala {
+
+
+}
+
+
+
+#kartu-content{
+  float: left;
+  max-width: 800px;
+}
+
+#kartu-content:p{
+  text-align: center;
+
+}
+
+#kartu-gambar{
+float: right;
+}
+
+#gambar1{
+  height: 80px;
+}
+
+
+.footer {
+  height: ;
+}
+
+.kaki {
+  text-align: center;
+  padding: 2rem;
+}
